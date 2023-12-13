@@ -1,0 +1,180 @@
+[32m1 - Determinação das correntes de fase de cada enrolamento[0m
+[1mIl_at: 1.883 A[0m
+[1mIl_bt: 68.370 A[0m
+[1mIf_at: 1.087 A[0m
+[1mIf_bt: 68.370 A[0m
+[32m2 - Cálculo de espiras por bobina (para cada enrolamento, N)[0m
+[1mNúmero de espiras por bobina: 3.286[0m
+[1mNúmero de espiras do enrolamento A-T: 4199.206[0m
+[1mNúmero de espiras do enrolamento B-T: 115.630[0m
+[32m3 - Cálculo da Seção Magnética do Núcleo (Smag ou Sn)[0m
+[1mSeção magnética do núcleo: 85.077 cm2[0m
+[32m4 - Seção Geométrica do Núcleo e seu Diâmetro[0m
+[1mSeção geométrica do núcleo: 89.554 cm2, raio geométrico do núcleo: 5.339 cm[0m
+[32m5 - Escalonamento do Núcleo[0m
+[1mNúmero de degraus do núcleo: 5.000, fator de preenchimento: 0.840[0m
+[32m6 - Seção onde o núcleo se insere (Sg-in), considerando o fator de preenchimento (kf)[0m
+[1mSeção onde o núcleo se insere: 106.6122 cm2, raio mínimo do carretel: 5.825[0m
+[32m7 - Altura da Janela[0m
+[1mAltura da janela: 1328.018 mm[0m
+[32m8 - Número de espiras do secundário[0m
+[1mNúmero de espiras do secundário: 115.630[0m
+[32m9 - Número de espiras do primário[0m
+[1mNúmero de espiras do primário: 4199.206[0m
+[32m10 - Bitola (AWG) ou Seção (mm2) e Diâmetro do condutor primário[0m
+[1mBitola do condutor primário: 21 AWG, seção do condutor primário: 0.403 mm2, diâmetro do condutor primário: 0.716 mm[0m
+[32m11 - Bitola (AWG) ou Seção (mm2) e Diâmetro do condutor secundário[0m
+[1mBitola do condutor secundário: 3 AWG, seção do condutor secundário: 25.322 mm2, diâmetro do condutor secundário: 5.678 mm[0m
+[32m12 - Dimensionamento do Secundário (bobina interna)[0m
+[1mNúmero de espiras por camada do secundário: 229.360[0m
+[1mNúmero de camadas do secundário: 0.504[0m
+[1mEspessura radial do secundário: 2.963 mm[0m
+[32m13 - Dimensionamento do Primário (bobina externa)[0m
+[1mNúmero de espiras por camada do primário: 1825.983[0m
+[1mNúmero de camadas do primário: 2.300[0m
+[1mEspessura radial do primário: 2.106 mm[0m
+[32m14 - Comprimento médio dos enrolamentos[0m
+[1mDistância do diâmetro do    núcleo ao diâmetro interno do enrolamento secundário 0.500 mm[0m
+[32m14.a - Enrolamentos do secundário[0m
+[1mComprimento médio dos enrolamentos do secundário: 378.474 mm[0m
+[32m14.b - Enrolamentos do primário[0m
+[1mDistância entre os enrolamentos: 16.000 mm[0m
+[1mComprimento médio dos enrolamentos do primário: 494.933 mm[0m
+[32m15 - Massa de cobre do primário[0m
+[1mMassa de cobre do primário: 22.314 kg[0m
+[32m16 - Massa de cobre do secundário[0m
+[1mMassa de cobre do secundário: 29.555 kg[0m
+[32m17 - Resistência do primário[0m
+[1mResistência do primário corrigida: 131.081 ohms/fase[0m
+[32m18 - Resistência do secundário[0m
+[1mResistência do secundário corrigida: 0.044 ohms/fase[0m
+[32m19 - Perdas elétricas nos enrolamentos (primário + secundário)[0m
+[1mPerda suplementar: 0.050[0m
+[1mPerdas elétricas nos enrolamentos: 1080.031 W[0m
+[32m20 - Quantificação do Núcleo[0m
+[1mDistância entre fases: 10.000 mm[0m
+[1mLargura da janela: 54.140 mm[0m
+[32m21 - Massa do núcleo[0m
+[1mMassa do núcleo: 319.096 kg[0m
+[32m22 - Perdas no núcleo[0m
+[1mPerdas no núcleo: 1000.000 W[0m
+[32m1 - Determinação das correntes de fase de cada enrolamento[0m
+[1mIl_at: 1.883 A[0m
+[1mIl_bt: 68.370 A[0m
+[1mIf_at: 1.087 A[0m
+[1mIf_bt: 68.370 A[0m
+[32m2 - Cálculo de espiras por bobina (para cada enrolamento, N)[0m
+[1mNúmero de espiras por bobina: 3.286[0m
+[1mNúmero de espiras do enrolamento A-T: 4199.206[0m
+[1mNúmero de espiras do enrolamento B-T: 115.630[0m
+[32m3 - Cálculo da Seção Magnética do Núcleo (Smag ou Sn)[0m
+[1mSeção magnética do núcleo: 85.077 cm2[0m
+[32m4 - Seção Geométrica do Núcleo e seu Diâmetro[0m
+[1mSeção geométrica do núcleo: 89.554 cm2, raio geométrico do núcleo: 5.339 cm[0m
+[32m5 - Escalonamento do Núcleo[0m
+[1mNúmero de degraus do núcleo: 5.000, fator de preenchimento: 0.840[0m
+[32m6 - Seção onde o núcleo se insere (Sg-in), considerando o fator de preenchimento (kf)[0m
+[1mSeção onde o núcleo se insere: 106.6122 cm2, raio mínimo do carretel: 5.825[0m
+[32m7 - Altura da Janela[0m
+[1mAltura da janela: 1328.018 mm[0m
+[32m8 - Número de espiras do secundário[0m
+[1mNúmero de espiras do secundário: 115.630[0m
+[32m9 - Número de espiras do primário[0m
+[1mNúmero de espiras do primário: 4199.206[0m
+[32m10 - Bitola (AWG) ou Seção (mm2) e Diâmetro do condutor primário[0m
+[1mBitola do condutor primário: 21 AWG, seção do condutor primário: 0.403 mm2, diâmetro do condutor primário: 0.716 mm[0m
+[32m11 - Bitola (AWG) ou Seção (mm2) e Diâmetro do condutor secundário[0m
+[1mBitola do condutor secundário: 3 AWG, seção do condutor secundário: 25.322 mm2, diâmetro do condutor secundário: 5.678 mm[0m
+[32m12 - Dimensionamento do Secundário (bobina interna)[0m
+[1mNúmero de espiras por camada do secundário: 229.360[0m
+[1mNúmero de camadas do secundário: 0.504[0m
+[1mEspessura radial do secundário: 2.963 mm[0m
+[32m13 - Dimensionamento do Primário (bobina externa)[0m
+[1mNúmero de espiras por camada do primário: 1825.983[0m
+[1mNúmero de camadas do primário: 2.300[0m
+[1mEspessura radial do primário: 2.106 mm[0m
+[32m14 - Comprimento médio dos enrolamentos[0m
+[1mDistância do diâmetro do    núcleo ao diâmetro interno do enrolamento secundário 0.500 mm[0m
+[32m14.a - Enrolamentos do secundário[0m
+[1mComprimento médio dos enrolamentos do secundário: 378.474 mm[0m
+[32m14.b - Enrolamentos do primário[0m
+[1mDistância entre os enrolamentos: 16.000 mm[0m
+[1mComprimento médio dos enrolamentos do primário: 494.933 mm[0m
+[32m15 - Massa de cobre do primário[0m
+[1mMassa de cobre do primário: 22.314 kg[0m
+[32m16 - Massa de cobre do secundário[0m
+[1mMassa de cobre do secundário: 29.555 kg[0m
+[32m17 - Resistência do primário[0m
+[1mResistência do primário corrigida: 131.081 ohms/fase[0m
+[32m18 - Resistência do secundário[0m
+[1mResistência do secundário corrigida: 0.044 ohms/fase[0m
+[32m19 - Perdas elétricas nos enrolamentos (primário + secundário)[0m
+[1mPerda suplementar: 0.050[0m
+[1mPerdas elétricas nos enrolamentos: 1080.031 W[0m
+[32m20 - Quantificação do Núcleo[0m
+[1mDistância entre fases: 10.000 mm[0m
+[1mLargura da janela: 54.140 mm[0m
+[32m21 - Massa do núcleo[0m
+[1mMassa do núcleo: 319.096 kg[0m
+[32m22 - Perdas no núcleo[0m
+[1mPerdas no núcleo: 1000.000 W[0m
+[32m1 - Determinação das correntes de fase de cada enrolamento[0m
+[1mIl_at: 1.883 A[0m
+[1mIl_bt: 68.370 A[0m
+[1mIf_at: 1.087 A[0m
+[1mIf_bt: 68.370 A[0m
+[32m2 - Cálculo de espiras por bobina (para cada enrolamento, N)[0m
+[1mNúmero de espiras por bobina: 3.286[0m
+[1mNúmero de espiras do enrolamento A-T: 4199.206[0m
+[1mNúmero de espiras do enrolamento B-T: 115.630[0m
+[32m3 - Cálculo da Seção Magnética do Núcleo (Smag ou Sn)[0m
+[1mSeção magnética do núcleo: 85.077 cm2[0m
+[32m4 - Seção Geométrica do Núcleo e seu Diâmetro[0m
+[1mSeção geométrica do núcleo: 89.554 cm2, raio geométrico do núcleo: 5.339 cm[0m
+[32m5 - Escalonamento do Núcleo[0m
+[1mNúmero de degraus do núcleo: 5.000, fator de preenchimento: 0.840[0m
+[32m6 - Seção onde o núcleo se insere (Sg-in), considerando o fator de preenchimento (kf)[0m
+[1mSeção onde o núcleo se insere: 106.6122 cm2, raio mínimo do carretel: 5.825[0m
+[32m7 - Altura da Janela[0m
+[1mAltura da janela: 1328.018 mm[0m
+[32m8 - Número de espiras do secundário[0m
+[1mNúmero de espiras do secundário: 115.630[0m
+[32m9 - Número de espiras do primário[0m
+[1mNúmero de espiras do primário: 4199.206[0m
+[32m10 - Bitola (AWG) ou Seção (mm2) e Diâmetro do condutor primário[0m
+[1mBitola do condutor primário: 21 AWG, seção do condutor primário: 0.403 mm2, diâmetro do condutor primário: 0.716 mm[0m
+[32m11 - Bitola (AWG) ou Seção (mm2) e Diâmetro do condutor secundário[0m
+[1mBitola do condutor secundário: 3 AWG, seção do condutor secundário: 25.322 mm2, diâmetro do condutor secundário: 5.678 mm[0m
+[32m12 - Dimensionamento do Secundário (bobina interna)[0m
+[1mNúmero de espiras por camada do secundário: 229.360[0m
+[1mNúmero de camadas do secundário: 0.504[0m
+[1mEspessura radial do secundário: 2.963 mm[0m
+[32m13 - Dimensionamento do Primário (bobina externa)[0m
+[1mNúmero de espiras por camada do primário: 1825.983[0m
+[1mNúmero de camadas do primário: 2.300[0m
+[1mEspessura radial do primário: 2.106 mm[0m
+[32m14 - Comprimento médio dos enrolamentos[0m
+[1mDistância do diâmetro do    núcleo ao diâmetro interno do enrolamento secundário 0.500 mm[0m
+[32m14.a - Enrolamentos do secundário[0m
+[1mComprimento médio dos enrolamentos do secundário: 378.474 mm[0m
+[32m14.b - Enrolamentos do primário[0m
+[1mDistância entre os enrolamentos: 16.000 mm[0m
+[1mComprimento médio dos enrolamentos do primário: 494.933 mm[0m
+[32m15 - Massa de cobre do primário[0m
+[1mMassa de cobre do primário: 22.314 kg[0m
+[32m16 - Massa de cobre do secundário[0m
+[1mMassa de cobre do secundário: 29.555 kg[0m
+[32m17 - Resistência do primário[0m
+[1mResistência do primário corrigida: 131.081 ohms/fase[0m
+[32m18 - Resistência do secundário[0m
+[1mResistência do secundário corrigida: 0.044 ohms/fase[0m
+[32m19 - Perdas elétricas nos enrolamentos (primário + secundário)[0m
+[1mPerda suplementar: 0.050[0m
+[1mPerdas elétricas nos enrolamentos: 1080.031 W[0m
+[32m20 - Quantificação do Núcleo[0m
+[1mDistância entre fases: 10.000 mm[0m
+[1mLargura da janela: 54.140 mm[0m
+[32m21 - Massa do núcleo[0m
+[1mMassa do núcleo: 319.096 kg[0m
+[32m22 - Perdas no núcleo[0m
+[1mPerdas no núcleo: 1000.000 W[0m
