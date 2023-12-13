@@ -1,7 +1,10 @@
 # Projeto Transformador Trifásico
 **Autores**: Ian Lucas Fiaux Harfuch, Leonardo Gabriel Rosa e Pedro Miguel Odebrecht Nassif
+
 **Data**: 13 de Dezembro, 2023
+
 **Disciplina**: TRANSFORMADORES - 1ELE924
+
 **Docente**: Prof. José Fernando Mangili Júnior
 
 ## Descrição
