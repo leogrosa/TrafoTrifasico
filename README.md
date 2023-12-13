@@ -18,6 +18,7 @@ Os códigos são separados em dois módulos:
 de tabelas e também funções auxiliares.
   - *Obs.:* Neste módulo, também há a presença do método *obter_tabela_awg()*, responsável por ler o arquivo *TabelaAWG.csv*.
 - ***projeto_trafo_trifasico.py***: Módulo que contém o algoritmo do projeto em si, cascateando os passos e cálculos necessários para realizar o dimensionamento.
+
 Além disso, há a presença de mais dois arquivos:
 - ***resultados_trafo_trifasico.log***: Arquivo que contém os resultados do dimensionamento.
 - ***TabelaAWG.csv***: Arquivo que contém a tabela AWG, utilizada para dimensionar os enrolamentos.
